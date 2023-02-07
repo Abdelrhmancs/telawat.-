@@ -1,0 +1,83 @@
+.led {
+    color: wheat;
+    margin-left: 500px;
+    font-size: 50px;
+
+
+
+}
+
+
+
+
+.audo {
+
+
+    background-color: peru;
+    border: 10px rgb(255, 255, 255);
+    border-style: dashed;
+
+}
+
+.label {
+
+    padding-left: 550px;
+    color: rgb(255, 255, 255);
+
+
+
+}
+
+body {
+
+    background-image: url(../pexels-luis-del-río-15286.jpg);
+    background-size: cover;
+
+}
+
+.oo {
+    margin-left: 75%;
+}
+
+p {
+    font-size: 30px;
+    margin-left: 75%;
+    color: rgb(255, 255, 255);
+}
+
+.df {
+    background-color: peru;
+    background-size: cover;
+    border: white 10px;
+    border-style: dashed;
+
+}
+
+.vdi {
+    margin-left: 600px;
+    color: aliceblue;
+
+}
+
+
+.er {
+    margin-left: 2%;
+    border: 5px solid wheat;
+
+}
+
+.ui {
+    margin-left: 20%;
+    border: 5px solid wheat;
+}
+
+.ss {
+    margin-left: 60%;
+    margin-top: 100%;
+}
+
+.pp {
+    /* background-image: url(../pexels-skinny-alien-2318554.jpg); */
+    /* border: solid 2px wheat; */
+
+}
